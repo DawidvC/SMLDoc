@@ -1,0 +1,5 @@
+provides: smldoc 0.9.0
+description: The SMLSharp documentation generator as a stand-alone package
+upstream-version: 0.90
+upstream-url: http://www.pllab.riec.tohoku.ac.jp/smlsharp/?SMLDoc
+maintainer: Jacob Harris Cryer Kragh
